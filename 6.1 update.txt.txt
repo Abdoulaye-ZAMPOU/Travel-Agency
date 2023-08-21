@@ -1,0 +1,2 @@
+Pour que la hauteur du overlay inclue le padding, il faut rajouter à la classe CSS overlay:
+box-sizing: border-box;
